@@ -1,2 +1,2 @@
 # songfinder
-Use for checkinh the song lyrics 
+Use for checking the song lyrics 
